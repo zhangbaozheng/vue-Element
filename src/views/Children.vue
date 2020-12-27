@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-03 11:55:54
- * @LastEditTime: 2020-12-03 11:56:13
+ * @LastEditTime: 2020-12-27 20:39:02
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Editre
  * @FilePath: \my-app\src\views\Children.vue
@@ -10,7 +10,26 @@
   <div>
     <span v-for="(item, index) in list" :key="index">
       {{ item.name }} -- {{ item.age }}
-      <button @click="EditAge(index)">点击修改名字</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
     </span>
   </div>
 </template>
