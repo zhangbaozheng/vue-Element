@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-03 11:55:54
- * @LastEditTime: 2020-12-27 20:39:02
+ * @LastEditTime: 2020-12-27 20:57:36
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Editre
  * @FilePath: \my-app\src\views\Children.vue
@@ -30,6 +30,62 @@
       <button @click="EditAge(index)">点击修改名字baobao</button>
       <button @click="EditAge(index)">点击修改名字baobao</button>
       <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button>baobaozhang</button>
+      <button @click="EditAge(index)">点击修改名字baobao</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
+      <button>baobaozhang</button>
     </span>
   </div>
 </template>
